@@ -1,0 +1,63 @@
+2014-12-03 21:09:36,487 [main] INFO loging - App Lunched
+2014-12-03 21:16:01,406 [main] INFO loging - App Lunched
+2014-12-03 21:16:01,961 [main] INFO loging - Check gruop seleceted :Personal
+Checks
+2014-12-03 21:16:08,383 [main] INFO loging - Check type selected :Most Popular Checks
+2014-12-03 21:16:13,119 [main] INFO loging - One check selected : Boho Checks - 4 scenes
+Starting at $9.32
+2014-12-03 21:16:25,019 [main] INFO loging - Check tab selected :Single Checks
+2014-12-03 22:46:12,029 [main] INFO loging - App Lunched
+2014-12-03 22:55:39,526 [main] INFO loging - App Lunched
+2014-12-04 15:22:39,041 [main] INFO loging - App Lunched
+2014-12-04 15:22:45,201 [main] INFO loging - Check gruop seleceted :Personal
+Checks
+2014-12-04 15:22:52,928 [main] INFO loging - Check type selected :Most Popular Checks
+2014-12-04 15:22:57,207 [main] INFO loging - One check selected : Boho Checks - 4 scenes
+Starting at $9.32
+2014-12-04 15:23:04,415 [main] INFO loging - Check tab selected :Single Checks
+2014-12-08 23:19:53,215 [main] INFO loging - App Lunched
+2014-12-08 23:20:00,673 [main] INFO loging - Check gruop seleceted :Personal
+Checks
+2014-12-08 23:20:10,464 [main] INFO loging - Check type selected :Most Popular Checks
+2014-12-08 23:20:12,642 [main] INFO loging - One check selected : Boho Checks - 4 scenes
+Starting at $9.32
+2014-12-08 23:20:18,043 [main] INFO loging - Check tab selected :Single Checks
+2015-03-18 17:34:24,574 [main] INFO loging - App Lunched
+2015-03-18 17:34:24,745 [main] INFO loging - row 2 or column Routing_Number does not exist in xls
+2015-03-18 17:34:24,786 [main] INFO loging - row 2 or column Account_Number does not exist in xls
+2015-03-18 17:34:24,798 [main] INFO loging - row 2 or column Check_Number does not exist in xls
+2015-03-18 17:34:24,808 [main] INFO loging - row 2 or column Email_Id does not exist in xls
+2015-03-18 17:34:24,864 [main] INFO loging - row 2 or column Phone_Num does not exist in xls
+2015-03-18 17:34:24,890 [main] INFO loging - row 2 or column Customer_Name does not exist in xls
+2015-03-18 17:34:24,904 [main] INFO loging - row 2 or column Address does not exist in xls
+2015-03-18 17:34:24,927 [main] INFO loging - row 2 or column City does not exist in xls
+2015-03-18 17:34:24,948 [main] INFO loging - row 2 or column States does not exist in xls
+2015-03-18 17:34:24,990 [main] INFO loging - row 2 or column Zip_Code does not exist in xls
+2015-03-18 17:34:24,999 [main] INFO loging - row 2 or column Bank_Name does not exist in xls
+2015-03-18 17:34:25,002 [main] INFO loging - Excel Raed is done
+2015-03-18 17:35:46,828 [main] INFO loging - App Lunched
+2015-03-18 17:35:46,889 [main] INFO loging - row 2 or column Routing_Number does not exist in xls
+2015-03-18 17:35:46,894 [main] INFO loging - row 2 or column Account_Number does not exist in xls
+2015-03-18 17:35:46,911 [main] INFO loging - row 2 or column Check_Number does not exist in xls
+2015-03-18 17:35:46,913 [main] INFO loging - row 2 or column Email_Id does not exist in xls
+2015-03-18 17:35:46,917 [main] INFO loging - row 2 or column Phone_Num does not exist in xls
+2015-03-18 17:35:46,921 [main] INFO loging - row 2 or column Customer_Name does not exist in xls
+2015-03-18 17:35:46,938 [main] INFO loging - row 2 or column Address does not exist in xls
+2015-03-18 17:35:46,941 [main] INFO loging - row 2 or column City does not exist in xls
+2015-03-18 17:35:46,949 [main] INFO loging - row 2 or column States does not exist in xls
+2015-03-18 17:35:46,957 [main] INFO loging - row 2 or column Zip_Code does not exist in xls
+2015-03-18 17:35:46,960 [main] INFO loging - row 2 or column Bank_Name does not exist in xls
+2015-03-18 17:35:46,967 [main] INFO loging - Excel Raed is done
+2015-03-18 17:36:43,149 [main] INFO loging - App Lunched
+2015-03-18 17:36:45,096 [main] INFO loging - 123123123
+2015-03-18 17:36:45,099 [main] INFO loging - 123456789
+2015-03-18 17:36:45,101 [main] INFO loging - 1001
+2015-03-18 17:36:45,103 [main] INFO loging - houston@texas.com
+2015-03-18 17:36:45,105 [main] INFO loging - 713-555-1212
+2015-03-18 17:36:45,127 [main] INFO loging - John Doe
+2015-03-18 17:36:45,130 [main] INFO loging - 10931 Laureate Drive
+2015-03-18 17:36:45,132 [main] INFO loging - San Antonio
+2015-03-18 17:36:45,134 [main] INFO loging - TX
+2015-03-18 17:36:45,136 [main] INFO loging - 78249
+2015-03-18 17:36:45,138 [main] INFO loging - Key Bank
+2015-03-18 17:36:45,157 [main] INFO loging - Excel Raed is done
